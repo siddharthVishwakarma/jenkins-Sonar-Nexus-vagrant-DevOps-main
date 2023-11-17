@@ -3,7 +3,7 @@ Automating the setup of 3 machines Nexus , Sonarqube , Jenkins
 this will facilitate testing complete pipelines for Devops
 
 # download the files 
-git clone 
+git clone https://github.com/siddharthVishwakarma/jenkins-Sonar-Nexus-vagrant-DevOps-main.git
 
 # run the below commands in side the download directory 
 vagrant up 
